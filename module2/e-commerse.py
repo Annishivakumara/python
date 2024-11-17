@@ -1,3 +1,4 @@
+#slot 2 - 2 problem
 #"Imagine you are working on a project for an e-commerce website.
 #  The website stores product ratings in a list for each product, 
 # where customers can rate a product from 1 to 5. You need to develop 
