@@ -1,7 +1,7 @@
 '''#"You are developing a text analysis tool for an educational application that helps students 
 improve their reading and writing skills. One of the features is to provide feedback on the vowel
- usage in their written assignments.Given a student’s written paragraph, such as ""The quick brown fox 
- jumps over the lazy dog."", how would you provide the program to count the number of vowels in the paragraph?
+usage in their written assignments.Given a student’s written paragraph, such as ""The quick brown fox 
+jumps over the lazy dog."", how would you provide the program to count the number of vowels in the paragraph?
 
 Input Format:
 The program will prompt the user to input a sentence or paragraph.
