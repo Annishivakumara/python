@@ -22,8 +22,9 @@ limit2=int(input("Enter the Upper Limit 2 :"))
 total=0
 count=0
 for score in scores:
-    total+=score
-    count+=1
+    if limit1<score <limit2:
+       total+=score
+       count+=1
 if count>0:
     average=total//count
     print(average)
