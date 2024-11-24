@@ -13,8 +13,15 @@
 #Output: 
 #2 4 
 #Explanation: The even numbers are 2 and 4.
+
 truks=int(input('Enter the Number: '))
 delivery_counts=list(map(int, input("Enter the input List values: ").split()))
 for i in delivery_counts:
     if i%2==0:
-        print(f"Even  Numbers Saparated By Spaces: {i}")
+        print(i, end=',')
+'''
+truck=int(input("Enter the In: "))
+list1=list(map(int,input("enter the in").split()))
+even=[ str(i) for i in list1 if i%2==0]
+print(" ",even)
+'''
