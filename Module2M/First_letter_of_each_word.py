@@ -19,6 +19,6 @@ for i in String:
     if i==" ":
        new_word=True
     elif  new_word:
-         acronym+=i
-         new_word=False
+          acronym+=i
+          new_word=False
 print(f"New Starting Word: {acronym}..")
