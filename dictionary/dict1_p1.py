@@ -7,6 +7,7 @@ print(a)
 #modifying anfd getting elemenets in the dict using get key word
 person=dict()
 
+
 name=input("Enter The Nam: ")
 age=int(input("Enter The age: "))
 person['name']=name
